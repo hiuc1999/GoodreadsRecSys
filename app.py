@@ -83,7 +83,7 @@ def book_to_books(seedbookID, latentmatrix, rec_mode):
 def similarity_scores(collaborative_score, content_score):
   #average both similarity scores
   df_sim = pd.merge(collaborative_score, pd.DataFrame(content_score['similarity_score']), left_index=True, right_index=True)
-  df_sim['similarity_score'] = (df_sim['similarity_score_x'] + (df_sim['similarity_score_y'])*0.5)/2
+  df_sim['similarity_score'] = (df_sim['similarity_score_x']*0.5 + (df_sim['similarity_score_y'])*0.2)/2
   df_sim.drop("similarity_score_x", axis=1, inplace=True)
   df_sim.drop("similarity_score_y", axis=1, inplace=True)
 
