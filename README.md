@@ -23,7 +23,6 @@ Mengting Wan, Rishabh Misra, Ndapa Nakashole, Julian McAuley, "Fine-Grained Spoi
 <img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Ratings.png" width="400" height="280"> 
 <img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Ratings_boxplot.png" width="400" height="280"> 
 <img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Num_of_reviews.png" width="800" height="280"> 
-<img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Reviews_by_date.png" width="800" height="280"> 
 <img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Num_of_book_by_genres.png" width="600" height="280"> 
 <img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/word_cloud.png" width="500" height="280"> 
 <br /> 
