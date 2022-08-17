@@ -19,11 +19,7 @@ Data Source:
 Mengting Wan, Rishabh Misra, Ndapa Nakashole, Julian McAuley, "Fine-Grained Spoiler Detection from Large-Scale Review Corpora", in ACL'19. [bibtex]*
 
 
-#### Exploratory Data Analysis
-<img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Ratings.png" width="400" height="280"> 
-<img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Ratings_boxplot.png" width="400" height="280"> 
-<img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Num_of_reviews.png" width="800" height="280"> 
-<img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Num_of_book_by_genres.png" width="600" height="280"> 
-<img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/word_cloud.png" width="500" height="280"> 
-<br /> 
+**Model Creation**
+ 
+<img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Hybrid_matrix.png" width="680" height="380"> 
 <br /> 
