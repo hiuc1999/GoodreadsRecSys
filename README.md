@@ -21,5 +21,7 @@ Mengting Wan, Rishabh Misra, Ndapa Nakashole, Julian McAuley, "Fine-Grained Spoi
 
 **Model Creation**
  
-<img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Hybrid_matrix.png" width="680" height="380"> 
+<img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/Book-to-book.png" width="680" height="380"> 
 <br /> 
+
+<img src="https://github.com/hiuc1999/GoodreadsRecSys/blob/main/images/User-to-book.png" width="680" height="380"> 
